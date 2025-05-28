@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Create your own .env file with the necessary variables, including your OpenAI API key:
 
 ```bash
-GOOGLE_API_KEY=[your-openai-api-key]
+GOOGLE_API_KEY=[your-api-key]
 ```
 
 ## Usage
